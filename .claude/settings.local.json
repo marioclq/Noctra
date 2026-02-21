@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.incommonwith.com)",
+      "Bash(npx create-next-app@latest noctra --typescript --tailwind --eslint --app --src-dir --no-import-alias --turbopack)",
+      "Bash(npx create-next-app:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npx shadcn@latest add:*)",
+      "Bash(tree:*)",
+      "Skill(ui-ux-pro-max)",
+      "Skill(ui-ux-pro-max:*)",
+      "Bash(taskkill:*)"
+    ]
+  }
+}
